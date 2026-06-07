@@ -1,0 +1,14 @@
+# monitoring/prometheus.yml
+# This tells Prometheus where to collect metrics from
+# and how often to collect them
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'regumind-api'
+    static_configs:
+      - targets: ['regumind_api:8000']
+    metrics_path: '/metrics'
+    scrape_interval: 15s
