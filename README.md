@@ -290,7 +290,7 @@ Technical expertise spans Python, LangChain, LangGraph, FastAPI, PyTorch, Huggin
 vector search, hybrid search, hallucination detection, Docker, PostgreSQL, Prometheus,
 Grafana, AWS, and Azure.
 
-Currently seeking Senior AI/ML Engineer and Full Stack Engineer opportunities.
+Currently seeking Senior AI/ML Engineer and Machine Learning Engineer opportunities.
 
 LinkedIn: https://www.linkedin.com/in/vishnu-priya-duddukunta/
 Email: vishnupriyadu@outlook.com
